@@ -4,4 +4,3 @@
 "# Coronary-Heart-Disease-Predictor" 
 
 
-#shamal
